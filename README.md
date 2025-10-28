@@ -5,7 +5,7 @@ Trouvez une entrée qui valide, et soumettez-la au service en ligne pour obtenir
 Une version plus complexe de cette épreuve est disponible ici : Diplodocus (Harder).
 
 
-Auteur : [Cryptanalyse](https://twitter.com/Cryptanalyse)
+Auteur : [Cryptanalyse](https://x.com/Cryptanalyse)
 
 Origine : [Diplodocus](https://hackropole.fr/fr/challenges/reverse/fcsc2022-reverse-diplodocus/)
 
